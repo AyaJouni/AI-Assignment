@@ -39,22 +39,22 @@ AI-Assignment/
 
 ---
 
-## **Setup Instructions**:
+## **Setup Instructions**
 
 Follow these steps to set up and run the project locally using the provided `.ipynb` notebook.
 
-### 1. Clone the Repository:
+### **1. Clone the Repository**
 
 ```bash
 git clone https://github.com/AyaJouni/AI-Assignment.git
 cd AI-Assignment
 
-### 2. Install Dependencies:
+### **2. Install Dependencies**
 
 ```bash
 pip install -r requirements.txt
 
-### 3. Open the Notebook:
+### **3. Open the Notebook**
 
 ```bash
 jupyter notebook

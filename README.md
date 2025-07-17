@@ -39,7 +39,7 @@ AI-Assignment/
 
 ---
 
-## Setup Instructions:
+## **Setup Instructions**:
 
 Follow these steps to set up and run the project locally using the provided `.ipynb` notebook.
 
